@@ -16,13 +16,13 @@ The **Student Performance dataset** from the [UCI repository](https://archive.ic
 
 `t-test` · *d ≈ 1.36*
 
-### Q2 · Does a mother's level of education affect her child's grades?
+### Q2 · Do students with more educated mothers get better grades?
 
 **Yes, but only a little.** It explains around 9% of the difference in grades. Grades go up slowly with the mother's education, and the biggest jump is in the highest education group.
 
 `Welch's ANOVA` · *η² ≈ 0.09*
 
-### Q3 · Do absences affect grades?
+### Q3 · Do students with more absences get lower grades?
 
 **Yes, but the effect is small.** More absences usually mean slightly lower grades, but the relationship is weak. Keeping the 15 students with a grade of 0 makes it look even weaker (r ≈ −0.09).
 
