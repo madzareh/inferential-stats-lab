@@ -30,6 +30,6 @@ The **Student Performance dataset** from the [UCI repository](https://archive.ic
 
 ### Q4 · Is there a difference between boys and girls in wanting higher education?
 
-**No real difference.** Both groups are very similar (91% vs 88%).
+**No significant difference.** 91% of girls and 88% of boys want higher education (p = 0.11). The 95% CI of the gap is about −1 to 9 percentage points, so a small difference is still possible.
 
 `chi-square`
