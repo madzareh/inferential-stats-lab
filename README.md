@@ -12,7 +12,7 @@ The **Student Performance dataset** from the [UCI repository](https://archive.ic
 
 ### Q1 · Do students who want higher education get better scores?
 
-**Yes.** They score about 3 points higher on average. The difference is significant.
+**Yes.** They score about 3 points higher on average (95% CI: 2.5 to 3.5). The difference is significant.
 
 `t-test` · *d ≈ 1.36*
 
